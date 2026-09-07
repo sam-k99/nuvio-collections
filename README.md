@@ -5,6 +5,17 @@ All assets are served via GitHub raw URLs. The base URL structure is:
 
 ---
 
+### `awards/`
+
+| Folder | Landscape | Poster | GIF | URL Example |
+|--------|-----------|--------|-----|-------------|
+| `bafta` | — | ✅ | — | `https://raw.githubusercontent.com/sam-k99/Nuvio-collections/main/awards/bafta/bafta-poster.png` |
+| `fisa` | — | ✅ | — | `https://raw.githubusercontent.com/sam-k99/Nuvio-collections/main/awards/fisa/fisa-poster.png` |
+| `goldenglobes` | — | ✅ | — | `https://raw.githubusercontent.com/sam-k99/Nuvio-collections/main/awards/goldenglobes/goldenglobes-poster.png` |
+| `iff` | — | ✅ | — | `https://raw.githubusercontent.com/sam-k99/Nuvio-collections/main/awards/iff/iff-poster.png` |
+| `oscars` | — | ✅ | — | `https://raw.githubusercontent.com/sam-k99/Nuvio-collections/main/awards/oscars/oscars-poster.png` |
+| `viff` | — | ✅ | — | `https://raw.githubusercontent.com/sam-k99/Nuvio-collections/main/awards/viff/viff-poster.png` |
+
 ### `decades/`
 
 | Folder | Landscape | Poster | GIF | URL Example |
@@ -183,3 +194,10 @@ All assets are served via GitHub raw URLs. The base URL structure is:
 - **Award images**: [fusion-starter-kit](https://github.com/itsrenoria/fusion-starter-kit) by mousa.a
 - **Franchise images**: Community collection (postimg.cc, ibb.co, pinimg.com, comicbook.com)
 - **Studio logos**: [Nuvio Covers](https://nuvioapp.space/covers) + Giphy
+
+
+
+
+
+
+
