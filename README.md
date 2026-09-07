@@ -185,6 +185,17 @@ All assets are served via GitHub raw URLs. The base URL structure is:
 
 ---
 
+## Sources
+
+- **Streaming covers/GIFs**: [Nuvio Covers](https://nuvioapp.space/covers) community uploads + Tenor
+- **Genre images**: [fusion-starter-kit](https://github.com/itsrenoria/fusion-starter-kit) by dannyrutledge
+- **Director images**: [fusion-starter-kit](https://github.com/itsrenoria/fusion-starter-kit) by fexm92
+- **Decade images**: [fusion-starter-kit](https://github.com/itsrenoria/fusion-starter-kit) by mousa.a
+- **Award images**: [fusion-starter-kit](https://github.com/itsrenoria/fusion-starter-kit) by mousa.a
+- **Franchise images**: Community collection (postimg.cc, ibb.co, pinimg.com, comicbook.com)
+- **Studio logos**: [Nuvio Covers](https://nuvioapp.space/covers) + Giphy
+
+
 
 
 
